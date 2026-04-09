@@ -1,11 +1,12 @@
 🌱 Smart Irrigation System using IoT & Java Backend
+
 📌 Overview
 
 The Smart Irrigation System is an end-to-end IoT-based solution designed to automate agricultural irrigation using real-time environmental data and intelligent backend processing. The system continuously monitors soil moisture, temperature, and humidity through sensors and makes automated decisions to control water irrigation.
 
 Unlike traditional irrigation systems, this project integrates IoT hardware with a Java-based backend to enable data-driven, automated, and efficient water management.
 
-🚀 Key Features
+🚀 Key Features:
 🌡️ Real-time monitoring of soil moisture, temperature, and humidity
 💧 Automated irrigation control based on sensor data
 🧠 Backend decision-making using Java logic
